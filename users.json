@@ -1,0 +1,20 @@
+[
+    {
+        "id": "7f168a0c-2131-45da-9299-8af654ae2641",
+        "first_name": "Teste",
+        "last_name": "Mostafa",
+        "email": "Mostafa@gmail.com",
+        "password": "123456789",
+        "phone": "01022195863",
+        "is_active": true
+    },
+    {
+        "id": "817ad5f8-4796-4a51-af5e-d923fcc955ba",
+        "first_name": "test",
+        "last_name": "TEsters",
+        "email": "Ahmed@gmail.com",
+        "password": "123456789",
+        "phone": "01022195863",
+        "is_active": true
+    }
+]
