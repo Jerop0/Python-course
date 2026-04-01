@@ -16,5 +16,14 @@
         "password": "123456789",
         "phone": "01022195863",
         "is_active": true
+    },
+    {
+        "id": "95f1ec3d-7195-4d56-89df-18eee047d423",
+        "first_name": "Mostafa",
+        "last_name": "AbdElaziz",
+        "email": "Mostafa2@gmail.com",
+        "password": "12345678",
+        "phone": "01022195863",
+        "is_active": true
     }
 ]

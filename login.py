@@ -9,6 +9,6 @@ def login():
     for user in users:
         if user["email"] == email and user["password"] == password:
             print(f"Welcome {user['first_name']}!")
-            return
+            return user
 
     print("Invalid email or password")
